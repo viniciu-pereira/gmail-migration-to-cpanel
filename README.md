@@ -1,4 +1,4 @@
-# Email Migration Guide with IMAPSync
+# Gmail Migration Guide with IMAPSync
 
 This tutorial provides instructions for performing email migration using IMAPSync.
 
